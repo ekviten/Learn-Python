@@ -1,0 +1,8 @@
+#example of def
+#author: ekviten
+
+def say_hi(name, age):
+	print('hello' + name + "," "you are" + age)
+say_hi('mike', '34')
+
+#i really like this one as it is easy to follow and understand
